@@ -1,13 +1,13 @@
 //=============『 Utama 』================== //
-global.owner = ['6285706735450'] 
-global.mods = ['6285706735450'] 
-global.prems = [''] 
+global.owner = ['66855048169'] 
+global.mods = ['66855048169'] 
+global.prems = ['66855048169'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '⫹⫺ verdi peler ~'
-global.numberowner = '6285706735450'
-global.instagram = 'https://instagram.com/'
-global.github = 'https://github.com/verdihatorou'
+global.nameowner = '⫹⫺ Nan'
+global.numberowner = '66855048169'
+global.instagram = 'https://instagram.com/nan_sakrn'
+global.github = 'https://github.com/JakaV1'
 global.dana = ''
 global.pulsa = ''
 global.gopay = ''
